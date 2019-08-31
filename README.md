@@ -7,3 +7,7 @@ A bukkit plugin that changes some stuff.
 * Spectral arrows now send players to a pre-defined location, aka the Jail.
 * Tridents now cast lightning on the world surface when used.
 * Adds a /where command to list the locations of all players
+
+## Requirements
+
+* Java 10-ish
