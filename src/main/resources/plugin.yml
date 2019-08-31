@@ -1,0 +1,8 @@
+name: GregsMod
+main: xyz.pnplz.mine.gregsmod.GregsModJavaPlugin
+version: 1.0
+api-version: 1.13
+commands:
+  where:
+    description: Displays the x, y, z coordinates for all players, or a specific player
+    usage: /where [player]
